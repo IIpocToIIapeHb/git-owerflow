@@ -5,8 +5,6 @@ public class HelloWorld {
 		System.out.println("Жыве БЕларусь");
 	
 		
-		
-		
 	
 		System.out.println("Нет войне");
 	}
