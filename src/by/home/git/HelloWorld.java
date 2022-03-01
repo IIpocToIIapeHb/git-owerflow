@@ -7,9 +7,7 @@ public class HelloWorld {
 		
 		
 		
-		
-		
-		
+	
 		System.out.println("Нет войне");
 	}
 
